@@ -240,7 +240,7 @@ The project includes comprehensive visualizations:
 
 ## 👥 Author
 
-**Mukilan Raj**
+**Mukilan Rajapandian**
 - University of Southampton
 - Bachelor's Project (2023-2024)
 - Contact: [mukilan2101](https://github.com/mukilan2101)
